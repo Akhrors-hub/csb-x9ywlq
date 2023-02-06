@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://akhrors-hub.github.io/csb-x9ywlq/static/js/main.46ebafe7.chunk.js",
+    "main.js.map": "https://akhrors-hub.github.io/csb-x9ywlq/static/js/main.46ebafe7.chunk.js.map",
+    "runtime-main.js": "https://akhrors-hub.github.io/csb-x9ywlq/static/js/runtime-main.ccaa49b6.js",
+    "runtime-main.js.map": "https://akhrors-hub.github.io/csb-x9ywlq/static/js/runtime-main.ccaa49b6.js.map",
+    "static/js/2.6aed7231.chunk.js": "https://akhrors-hub.github.io/csb-x9ywlq/static/js/2.6aed7231.chunk.js",
+    "static/js/2.6aed7231.chunk.js.map": "https://akhrors-hub.github.io/csb-x9ywlq/static/js/2.6aed7231.chunk.js.map",
+    "index.html": "https://akhrors-hub.github.io/csb-x9ywlq/index.html",
+    "static/js/2.6aed7231.chunk.js.LICENSE.txt": "https://akhrors-hub.github.io/csb-x9ywlq/static/js/2.6aed7231.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccaa49b6.js",
+    "static/js/2.6aed7231.chunk.js",
+    "static/js/main.46ebafe7.chunk.js"
+  ]
+}
